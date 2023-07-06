@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header {  
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+    background: #eb5f2871;
+    color: white;
+}
+
+.text_center {
+    text-align: center;
+}
+
+div {
+    margin: 1%;
+}
+
+a:link {
+    color: #6d6e6d;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #6d6e6d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #505150;
+}
